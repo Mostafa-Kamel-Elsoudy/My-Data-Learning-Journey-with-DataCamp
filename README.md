@@ -29,7 +29,7 @@ Here are some of the **DataCamp courses** I’ve completed so far, mainly focuse
 
 1. [Introduction to Python for Developers](https://app.datacamp.com/learn/courses/introduction-to-python-for-developers)  
 2. [Intermediate Python for Developers](https://app.datacamp.com/learn/courses/Intermediate-python-for-developers)  
-3. [Introduction to SQL for Data Science](https://app.datacamp.com/learn/courses/intro-to-sql-for-data-science) *(planned/ongoing)*  
+3. [Introduction to SQL for Data Science](https://app.datacamp.com/learn/courses/intro-to-sql-for-data-science)  
 4. [Data Engineering Toolbox](https://app.datacamp.com/learn/courses/data-engineering-toolbox) *(planned/ongoing)*  
 
 Each course folder contains:

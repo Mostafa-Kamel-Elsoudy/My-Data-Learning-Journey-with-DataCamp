@@ -1,6 +1,6 @@
-# My Data Engineering Learning Journey with DataCamp
+# My Data Learning Journey with DataCamp
 
-Welcome to my **Data Engineering learning journey repository**! 🚀  
+Welcome to my **Data learning journey repository**! 🚀  
 This repository documents my progress, projects, and notes as I build skills in **data engineering, data analysis, and AI applications** through **DataCamp** courses.
 
 ---
